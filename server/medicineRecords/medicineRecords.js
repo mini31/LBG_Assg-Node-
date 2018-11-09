@@ -1,0 +1,1 @@
+module.exports = [{"id":"3","Name":"Avonex","Manufacturer":"Jeevan Pharma","batch":"456789","ExpirationDate":"12/20/2020","Price":"80","Type":"capsule"},{"id":"4","Name":"Avandia","Manufacturer":"Jeevan Pharma","batch":"098765","ExpirationDate":"12/20/2020","Price":"55","Type":"capsule"}]
